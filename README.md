@@ -9,11 +9,12 @@ Practice application for learning React. Learning resources from https://reactjs
 * Have Node.js installed
 * Go to project directory
 * Run 
-```npm install -g serve
+```
+npm install -g serve
 serve -s build
 ```
 * The application will be served on port 5000 so open http://localhost:5000/ in your browser
-* Enjoy
+* Enjoy!
 
 ## Features
 * Functionality to play game of tic-tac-toe
